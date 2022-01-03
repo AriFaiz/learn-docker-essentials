@@ -7,4 +7,4 @@ Belajar perintah-perintah docker dasar
 - membuat container dengan image/port/env-variable/network/volume serta mengalokasikan container tersebut dengan databases maupun menghubungkan container 1 dengan yang lain
 - mengelola volume serta memanagement docker itu sendiri.
 
-# modul ini dibuat berdasarkan refrensi dari community docker di doxker.hub serta learning path dari channel youtube pak eko ProgrammerZamanNow.
+# modul ini dibuat berdasarkan refrensi dari community docker di docker.hub serta learning path dari channel youtube pak eko ProgrammerZamanNow.
