@@ -1,0 +1,2 @@
+docker container logs elastic_wozniak //perintah untuk melihat seluruh logs/kegiatan pada container elastic_wozniak sampai ada kegiatan baru
+docker container logs -f elastic_wozniak //perintah untuk melihat logs/kegiatan pada container elastic_wozniak sampai ada kegiatan baru

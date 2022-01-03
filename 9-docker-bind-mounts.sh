@@ -1,0 +1,2 @@
+dalam studi kasus ini bertujuan untuk mounting (sharing) file dari sistem operasi computer (host) ke container. Berikut adalah parameternya 
+docker container create --name mongodata-bind-mounts --publish 27018:27017 --mount "type=bind, source=/home/arimagot/.aws/docker-app/perintah-docker-dasar/mongo-data, destination=/data/db, readonly" mongo=latest //pada kasus bind mounts ini saya akan memounting dari folder source ke folder destination akan tetapi pada folder destination file tersebut hanya bisa dibaca saja tidak bisa melakukan konfigurasi.
